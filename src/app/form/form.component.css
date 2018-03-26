@@ -1,0 +1,13 @@
+.formClass {
+    width: 100%;
+}
+.div50{
+    width: 45%;
+    display: inline-block;
+    float: left;
+    padding: 5px 10px 5px 15px;
+}
+form{
+    width: 45%;
+    margin: 0 auto; 
+}
